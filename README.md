@@ -1,3 +1,6 @@
+Fork of peaksandpies/universal-analytics using 'https' instead of 'request' to handle network communication.
+
+
 universal-analytics
 =======
 
